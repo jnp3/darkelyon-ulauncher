@@ -16,4 +16,4 @@ cd ~/.config/ulauncher/user-themes
 git clone https://github.com/jonapiron/darkelyon-ulauncher.git
 ```
 
-Open Ulauncher and go to the settings. In the `Preferences` tab, choose your newly installed theme! 🤓
+Open Ulauncher and go to the settings. In the `Preferences` tab, choose `darkelyon` and enjoy your newly installed theme! 🤓
